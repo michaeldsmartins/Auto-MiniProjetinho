@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "chrome": "^0.1.0",
+    "logging": "^3.3.0",
+    "node-fetch": "^2.6.1",
+    "selenium-webdriver": "^4.9.2"
+  }
+}
